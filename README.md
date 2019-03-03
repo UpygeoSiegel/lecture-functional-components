@@ -15,7 +15,7 @@
 
 
 ## Launch
-![Pet Book](pet-book.PNG)
+![Pet Book](../img/pet-book.PNG)
 Clone the Pet Book repository before the start of this lesson at https://github.com/UpygeoSiegel/pet-book. Run the website and display it to students at the start of the lesson. Ask them to make predictions about what code was used to build this website. Once students have made their predictions, open the App.js file and show students the contents of this file. Were their predictions correct?
 
 > ### Teacher Note
@@ -83,7 +83,7 @@ class App extends Component {
 
 There are two Navbars now! How easy was that?! This should illustrate to students the reusability of React components. Have students try the mini-challenges below.
 
-![Two Navbars](two-navbars.png)
+![Two Navbars](../img/two-navbars.png)
 
 #### Mini-challenges
 * Can you add five Navbar components to the Pet Book website?
@@ -94,7 +94,7 @@ There are two Navbars now! How easy was that?! This should illustrate to student
 ### Components are separated into different files
 Lets explore what is going on under the hood. The HTML for each component has to be written somewhere, right? You are correct! Let's open the component directory to see what files are inside.
 
-![Components](components.png)
+![Components](../img/components.png)
 
 You will see four files when you open the component directory. When you open each file, there is the HTML for each individual component.
 
