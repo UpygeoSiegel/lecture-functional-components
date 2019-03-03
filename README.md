@@ -15,7 +15,7 @@
 
 
 ## Launch
-![Pet Book](./img/pet-book.PNG)
+![Pet Book](./img/pet-book.png)
 Clone the Pet Book repository before the start of this lesson at https://github.com/UpygeoSiegel/pet-book. Run the website and display it to students at the start of the lesson. Ask them to make predictions about what code was used to build this website. Once students have made their predictions, open the App.js file and show students the contents of this file. Were their predictions correct?
 
 > ### Teacher Note
