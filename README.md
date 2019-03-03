@@ -122,12 +122,12 @@ const Example = () => {
 #### Mini-challenges
 * Change the "sub-text" in the Description component
 * Change the "value" attribute of the input in the Navbar component
-* Add another <h5> tag in the splash page with a quote about animals
+* Add another h5 tag in the splash page with a quote about animals
 * Extension - Change the color of the Navbar.
 
 
 ## Close
 Remember to gather student feedback on this lesson. In addition to the standard close, consider asking students the question below before ending class.
 
-#### Questions for Students
+#### Question for Students
 * The components we looked at today always returned the same HTML. What functionality could we add to these components to make them for useful?
