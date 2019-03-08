@@ -72,9 +72,9 @@ class App extends Component {
       <div className="App">
         <Navbar/>
         <Navbar/>
-    		<Splash/>
-    		<Photos/>
-    		<Descriptions/>
+    	<Splash/>
+    	<Photos/>
+    	<Descriptions/>
       </div>
     );
   }
@@ -113,7 +113,7 @@ Furthermore, a component may only return a single div, so all the HTML the compo
 const Example = () => {
 	return(
 		<div>
-      //Block of HTML code goes here
+      		//Block of HTML code goes here
 		</div>
 	);
 };
