@@ -35,9 +35,9 @@ class App extends Component {
     return (
       <div className="App">
         <Navbar/>
-    		<Splash/>
-    		<Photos/>
-    		<Descriptions/>
+    	<Splash/>
+    	<Photos/>
+    	<Descriptions/>
       </div>
     );
   }
